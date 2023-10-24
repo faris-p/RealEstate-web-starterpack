@@ -1,6 +1,7 @@
 .h-wrapper{
     background: var(--black);
     color: white;
+    
 }
 .h-container{
     justify-content: space-between;
